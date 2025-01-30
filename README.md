@@ -34,3 +34,17 @@ npm install
 
 # Start the application
 npm start
+
+```
+## 🤝 Contributing
+We welcome contributions! Follow these steps to contribute:
+
+- Fork the repository
+- Create a new branch: git checkout -b feature-branch
+- Make your changes and commit: git commit -m "Added a new feature"
+- Push to the branch: git push origin feature-branch
+- Open a Pull Request
+
+ ## 📩 Contact
+- 👤 **Author:** Ridham Rai
+- 🔗 **GitHub:** https://github.com/ridham-rai
