@@ -1,35 +1,50 @@
-# Finsplit - Bill Splitting Website
+# 💰 Bill Split Website
 
-Finsplit is a user-friendly, multicurrency bill-splitting website that allows users to split any bill among multiple people. It offers customization options where users can allocate different shares, include taxes, tips, and handle various currencies with ease.
+A simple and efficient web application that allows users to split bills seamlessly among friends, keeping track of expenses and ensuring transparency in payments.
 
-# Features
+## 🚀 Features
 
-1.Split Bills: Easily split any amount between any number of people.
+✅ Add multiple users to a bill  
+✅ Automatically calculate each person’s share  
+✅ Track pending and completed payments  
+✅ User-friendly interface  
+✅ Mobile-responsive design  
+✅ Secure authentication (if applicable)  
 
-2.Customizable Shares: Option to customize the share of each person (e.g., different amounts for different people).
+## 🛠️ Tech Stack
 
-3.Multicurrency Support: Supports multiple currencies for international users.
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (if applicable)  
+- **Authentication:** Firebase/Auth0 (if applicable)  
 
-4.Include Taxes and Tips: Users can add taxes and tips to the total amount and have it distributed accordingly.
+## 📌 Installation Guide
 
-5.Responsive Design: Designed to work on both desktop and mobile devices.
+Follow these steps to run the project locally:
 
-# Technologies Used
-1.HTML: Structure of the website.
+```bash
+# Clone the repository
+git clone https://github.com/ridham-rai/Bill-Split-Website.git
 
-2.CSS: Styling and layout of the website.
+# Navigate into the project folder
+cd Bill-Split-Website
 
-3.JavaScript: Logic for splitting the bill, handling custom shares, adding taxes, tips, and multicurrency functionality.
+# Install dependencies
+npm install  
 
-# How to Use
-1.Enter the Total Bill: Input the total amount of the bill.
+# Start the application
+npm start
 
-2.Add People: Add the number of people to split the bill with.
+```
+## 🤝 Contributing
+We welcome contributions! Follow these steps to contribute:
 
-3.Customize Shares: Optionally, customize the amount each person will pay.
+- Fork the repository
+- Create a new branch: git checkout -b feature-branch
+- Make your changes and commit: git commit -m "Added a new feature"
+- Push to the branch: git push origin feature-branch
+- Open a Pull Request
 
-4.Include Taxes and Tips: Add taxes and tips if necessary.
-
-5.Select Currency: Choose the currency for the transaction.
-
-6.Split the Bill: Click "Calculate" to see the split bill, showing how much each person owes.
+ ## 📩 Contact
+- 👤 **Author:** Ridham Rai
+- 🔗 **GitHub:** https://github.com/ridham-rai
